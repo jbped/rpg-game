@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jbped/rpg-game#readme",
   "devDependencies": {
     "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
   }
 }
